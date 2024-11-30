@@ -1277,7 +1277,7 @@ JohtoGrassWildMons:
 	db 4, EKANS
 	db 5, RATTATA
 	db 7, BELLSPROUT
-	db 6, HOPPIP
+	db 6, MAREEP
 	db 7, PIDGEY
 	db 7, HOPPIP
 	db 7, HOPPIP
@@ -1285,7 +1285,7 @@ JohtoGrassWildMons:
 	db 4, EKANS
 	db 5, RATTATA
 	db 7, BELLSPROUT
-	db 6, HOPPIP
+	db 6, MAREEP
 	db 7, PIDGEY
 	db 7, HOPPIP
 	db 7, HOPPIP
@@ -1294,7 +1294,7 @@ JohtoGrassWildMons:
 	db 5, RATTATA
 	db 7, BELLSPROUT
 	db 6, ZUBAT
-	db 7, HOOTHOOT
+	db 7, MAREEP
 	db 7, GASTLY
 	db 7, GASTLY
 
