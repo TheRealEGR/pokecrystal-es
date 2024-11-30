@@ -1386,7 +1386,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
-	db 5, PIDGEY
+	db 5, VULPIX
 	db 6, PIDGEY
 	db 6, PIDGEY
 	; day
@@ -1394,7 +1394,7 @@ JohtoGrassWildMons:
 	db 4, PIDGEY
 	db 5, BELLSPROUT
 	db 5, GROWLITHE
-	db 5, PIDGEY
+	db 5, VULPIX
 	db 6, PIDGEY
 	db 6, PIDGEY
 	; nite
@@ -1414,7 +1414,7 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 16, GROWLITHE
 	db 15, PIDGEOTTO
-	db 15, LEDIAN
+	db 16, VULPIX
 	db 15, LEDIAN
 	; day
 	db 13, PIDGEY
@@ -1422,7 +1422,7 @@ JohtoGrassWildMons:
 	db 15, PIDGEY
 	db 16, GROWLITHE
 	db 15, PIDGEOTTO
-	db 15, PIDGEY
+	db 16, VULPIX
 	db 15, PIDGEY
 	; nite
 	db 13, SPINARAK
@@ -1495,7 +1495,7 @@ JohtoGrassWildMons:
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
-	db 16, FEAROW
+	db 16, MANKEY
 	db 16, FEAROW
 	; day
 	db 13, EKANS
@@ -1503,13 +1503,13 @@ JohtoGrassWildMons:
 	db 15, RATTATA
 	db 16, RATICATE
 	db 15, ARBOK
-	db 16, FEAROW
+	db 16, MANKEY
 	db 16, FEAROW
 	; nite
 	db 13, RATTATA
 	db 14, ZUBAT
 	db 15, RATICATE
-	db 16, GOLBAT
+	db 16, MANKEY
 	db 15, MARILL
 	db 16, GOLBAT
 	db 16, GOLBAT
