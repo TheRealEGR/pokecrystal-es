@@ -1151,7 +1151,7 @@ JohtoGrassWildMons:
 	db 2, ZUBAT
 	db 2, GEODUDE
 	db 4, GEODUDE
-	db 2, ZUBAT
+	db 2, TEDDIURSA
 	db 4, ZUBAT
 	db 4, DUNSPARCE
 	; nite
@@ -1159,7 +1159,7 @@ JohtoGrassWildMons:
 	db 2, ZUBAT
 	db 2, GEODUDE
 	db 4, GEODUDE
-	db 2, ZUBAT
+	db 2, TEDDIURSA
 	db 4, ZUBAT
 	db 4, DUNSPARCE
 
@@ -1517,26 +1517,26 @@ JohtoGrassWildMons:
 	map_id ROUTE_43
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 15, SENTRET
-	db 16, PIDGEOTTO
+	db 15, FLAAFFY
+	db 15, GIRAFARIG
 	db 16, FARFETCH_D
-	db 15, FURRET
+	db 16, PIDGEOTTO
 	db 17, RATICATE
 	db 17, FURRET
 	db 17, FURRET
 	; day
-	db 15, SENTRET
-	db 16, PIDGEOTTO
+	db 15, FLAAFFY
+	db 15, GIRAFARIG
 	db 16, FARFETCH_D
-	db 15, FURRET
+	db 16, PIDGEOTTO
 	db 17, RATICATE
 	db 17, FURRET
 	db 17, FURRET
 	; nite
-	db 15, VENONAT
-	db 16, NOCTOWL
+	db 15, FLAAFFY
+	db 15, GIRAFARIG
 	db 16, RATICATE
-	db 17, VENONAT
+	db 17, NOCTOWL
 	db 17, RATICATE
 	db 17, VENOMOTH
 	db 17, VENOMOTH
@@ -1610,7 +1610,7 @@ JohtoGrassWildMons:
 	db 2, SPEAROW
 	db 3, GEODUDE
 	db 3, RATTATA
-	db 2, RATTATA
+	db 2, PHANPY
 	db 2, RATTATA
 	db 2, RATTATA
 	; nite
@@ -1618,7 +1618,7 @@ JohtoGrassWildMons:
 	db 2, RATTATA
 	db 3, GEODUDE
 	db 3, RATTATA
-	db 2, RATTATA
+	db 2, PHANPY
 	db 2, RATTATA
 	db 2, RATTATA
 
